@@ -31,4 +31,3 @@ Power BI · Power Query · DAX · Excel
 - Producto líder: Laptop Pro 14
 - Período más débil: Q1 2024
 - Pico máximo: Junio con $177K
->>>>>>> 716d18fcaa944a78b8b1ba31cd39ba82c202d22e
