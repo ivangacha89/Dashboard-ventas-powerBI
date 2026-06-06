@@ -111,7 +111,7 @@ Tabla dinámica
 
 Se adjunta imagen del modelo de datos y sus relaciones entre tablas, de **Uno a Varios (1:N)** entre dimensiones y tabla de hechos.
 
-<img src="screenshots/pagina1_resumen_ejecutivo.png" width="700"/>
+<img src="screenshots/vista_de_modelo.png" width="700"/>
  
 | Tabla | Tipo | Descripción |
 |---|---|---|
