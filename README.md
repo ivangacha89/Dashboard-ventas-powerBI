@@ -128,7 +128,7 @@ Se adjunta imagen del modelo de datos y sus relaciones entre tablas, de **Uno a 
 
 Se hizo una documentación de la funcionalidad de cada una de las medidas DAX creadas, remitirse al enlace que se relaciona a continuación.
 
-[📐 Medidas DAX](medidas_dax_documentacion.md)
+[📐 Medidas DAX](medidas_dax_documentacion_ventas.md)
 
 ---
 
