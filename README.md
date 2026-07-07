@@ -99,6 +99,7 @@ Arquitectura **modelo estrella** con tabla de hechos central y dimensiones de ne
 Tabla de hechos
  
 - FactVentas
+
 Tablas de dimensión
  
 - Cliente
